@@ -1,0 +1,51 @@
+/*
+Name: Aaditya Mukherjee
+Affiliation: Computer Science Student at UMass Lowell
+E-mail: Aaditya_Mukherjee@student.uml.edu
+91.61 GUI Programming I, Assignment 6
+Sources: https://www.youtube.com/watch?v=zhxQhgm4yk4&t=200s    (The first two sources were used to figure out how to make multiplication tables with for loops)
+       : https://www.youtube.com/watch?v=zhxQhgm4yk4&t=200s
+*/
+
+body{
+  background-color: #6D7179;     /*background-color set to dark grey */
+
+}
+
+#wrapper{                               /*Centered "main" part of page */
+  background-color:white;
+  width: 900px;
+  margin:auto;
+  padding:50px;
+  text-align: center;
+
+
+}
+
+h1{
+  padding:30px;
+}
+
+th{
+  background-color: black;
+  color:white;
+  text-align:center;
+}
+
+
+#header{
+  color: white;
+  background-color: #324890;
+
+
+}
+
+button{
+  margin :20px;
+}
+
+table{
+  margin :20px;
+  background-color: blue;
+  table-layout: fixed;
+}
